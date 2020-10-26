@@ -1,2 +1,3 @@
 my first try
+conflict1
 a bad try
